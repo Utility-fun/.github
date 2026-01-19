@@ -37,10 +37,4 @@ Transform your software from a repository into a self-sustaining ecosystem.
 
 ---
 
-### ⚡ Build Energy
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utility-fun&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utility-fun&layout=compact&theme=dark&hide_border=true)
-
----
-
-[Website](https://utility.fun) • [Twitter](https://x.com/utilityfun) • [Join the Community](https://discord.gg/utilityfun)
+[Website](https://utility.fun) • [Twitter](https://x.com/utilityfun) • [Join the Community](https:t.me/utilityfun)
