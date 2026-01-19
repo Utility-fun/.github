@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="https://i.postimg.cc/sXwK4BYs/Deploy-the-next-big-utility-(1).png alt="Utility.fun Banner" width="100%">
+</p>
+
 # 🚀 Utility.fun
 
 **Don’t just ship code. Ship a community.**
 
 Utility.fun is the discovery layer for functional Web3. We bridge the gap between "shipping an app" and "launching an economy," turning early users into vested stakeholders.
-
-<p align="center">
-  <img src="https://i.postimg.cc/sXwK4BYs/Deploy-the-next-big-utility-(1).png alt="Utility.fun Banner" width="100%">
-</p>
 
 ### 🔍 Find the Signal
 The hunt for substance starts here. We filter the noise to surface tools that actually work.
