@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/sXwK4BYs/Deploy-the-next-big-utility-(1).png alt="Utility.fun Banner" width="100%">
+  <img src="https://i.postimg.cc/X7rfhNS0/Deploy-the-next-big-utility-(2).png alt="Utility.fun Banner" width="100%">
 </p>
 
 # 🚀 Utility.fun
